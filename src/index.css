@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    /* border: 1px solid black; */
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.main{
+   background-image: url("./image/img.jpg");
+   background-size: 100% 100%;    
+}
+.inp{
+    background-color: rgb(181,135 , 82);
+}
+.btn{
+    background-color: rgb(181,135 , 82);
+    
+}
+.h1{
+    color: rgb(181,135 , 82);
+    
+}
