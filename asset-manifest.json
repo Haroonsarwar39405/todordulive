@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/todoreducer/static/css/main.86af2d11.css",
+    "main.js": "/todoreducer/static/js/main.2bb4be6f.js",
+    "static/media/img.jpg": "/todoreducer/static/media/img.fde01b8af20399402314.jpg",
+    "index.html": "/todoreducer/index.html",
+    "main.86af2d11.css.map": "/todoreducer/static/css/main.86af2d11.css.map",
+    "main.2bb4be6f.js.map": "/todoreducer/static/js/main.2bb4be6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86af2d11.css",
+    "static/js/main.2bb4be6f.js"
+  ]
+}
